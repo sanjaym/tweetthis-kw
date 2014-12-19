@@ -8,10 +8,9 @@ Lets you highlight specific parts of a WordPress post for one-click tweeting. Us
 <code>[tweetthis] Lorem ipsum...[/tweetthis]</code>
 
 * Activate Plugin
-* In post/page, move cursor to start of the target text and click ['Tweetthis'] button
-* move cursor to the end of the desired selectable area and click the same button which should now say ['/Tweetthis'] to end the tag.
-* **you can also highlight the target text and click the [Tweetthis] button
+* In post/page, select the target text and click ['Tweetthis'] button
 * edit the alt/hashtags/shorturl as needed
+* the short code must be well formed... mismatched "s or 's will cause erratic behavior. Also "[" and "]" may cause issues if included in the tweet ALT text 
  
 
 <blockquote>Schardt says that <code>[tweetthis]</code> finding creative journalists with an awareness of what technologies are available to them is half the battle.<code>[/tweetthis]</code> The advancements themselves outpace the average newsroom's awareness and ability, but funding continues to be overwhelmingly aimed at furthering these platforms — while journalists struggle to keep up.</blockquote>
