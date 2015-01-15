@@ -34,7 +34,7 @@ keep up.</blockquote>
 <h3>All Together Now</h3>
 
 <code>
-[tweetthis alt=&#34;This is actually the text that will show up in the tweet.&#34; hashtag=&#34;#journalism #publicmedia&#34; short_url=&#34;http://knlg.net/urlhere&#34;]
+[tweetthis alt=&#34;This is actually the text that will show up in the tweet.&#34; hashtag=&#34;#journalism #publicmedia&#34; short_url=&#34;http://knlg.net/urlhere &#34;]
 </code>
 
 ***
