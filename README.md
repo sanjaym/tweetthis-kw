@@ -27,7 +27,7 @@ You can also add <code>hashtags</code> to the tweet:
 Shortened URLS are now supported <code>shorturl</code> otherwise the default  <code>wp_get_shortlink();</code> is used.
 
 
- <blockquote>Schardt says that &#91;tweetthis <code> shorturl=&#34;http://bit.ly/urlhere&#34;</code>&#93; finding creative journalists with an awareness of what technologies are available to them is half the battle.<strong>&#91;/tweetthis&#93;</strong> The advancements themselves outpace the average newsroom's awareness and ability, but funding continues to be overwhelmingly aimed at furthering these platforms — while journalists struggle to 
+ <blockquote>Schardt says that &#91;tweetthis <code> shorturl=&#34;http://bit.ly/urlhere &#34;</code>&#93; finding creative journalists with an awareness of what technologies are available to them is half the battle.<strong>&#91;/tweetthis&#93;</strong> The advancements themselves outpace the average newsroom's awareness and ability, but funding continues to be overwhelmingly aimed at furthering these platforms — while journalists struggle to 
 keep up.</blockquote>
 
 ***
